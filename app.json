@@ -1,0 +1,11 @@
+{
+	"pages": [
+    "pages/card/card",
+		"pages/index/index"
+		
+	],
+	"window": {
+		"navigationBarTitleText": "这是我的卡片",
+    "backgroundColor": "#efefef"
+	}
+}

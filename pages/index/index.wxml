@@ -1,0 +1,3 @@
+<view>
+	<button bindtap="gotoCreateCard">编辑名片</button>
+</view>
